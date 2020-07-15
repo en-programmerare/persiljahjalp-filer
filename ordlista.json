@@ -1,0 +1,195 @@
+{
+   "ord": [
+      {
+         "namn": "aa",
+         "ordklass": "sub",
+         "betydelser": [
+            "sol"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "aall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "skina"
+         ],
+         "konstruktioner": [
+            {
+               "konstruktion": "te aall",
+               "betydelse": "solen skiner"
+            }
+         ]
+      },
+      {
+         "namn": "ab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "en",
+            "ett"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "aba",
+         "ordklass": "sub",
+         "betydelser": [
+            "början",
+            "start",
+            "begynnelse"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "aball",
+         "ordklass": "vrb",
+         "betydelser": [
+            "börja",
+            "starta",
+            "begynna"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "aberab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "ettusen",
+            "tusen"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "abetab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "etthundra",
+            "hundra"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "abklaga",
+         "ordklass": "sub",
+         "betydelser": [
+            "måndag"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "abpina",
+         "ordklass": "sub",
+         "betydelser": [
+            "januari"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "abtipina",
+         "ordklass": "sub",
+         "betydelser": [
+            "november"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "abre",
+         "ordklass": "rkn",
+         "betydelser": [
+            "första"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "abti",
+         "ordklass": "rkn",
+         "betydelser": [
+            "elva"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "ajana",
+         "ordklass": "sub",
+         "betydelser": [
+            "sommar"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "amsa",
+         "ordklass": "sub",
+         "betydelser": [
+            "syster"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "anta",
+         "ordklass": "sub",
+         "betydelser": [
+            "mamma"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "antónia",
+         "ordklass": "sub",
+         "betydelser": [
+            "bakterie"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "apa",
+         "ordklass": "sub",
+         "betydelser": [
+            "ord"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "atsa",
+         "ordklass": "sub",
+         "betydelser": [
+            "bror"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "atta",
+         "ordklass": "sub",
+         "betydelser": [
+            "fråga"
+         ],
+         "konstruktioner": [
+         ]
+      },
+      {
+         "namn": "attall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "fråga"
+         ],
+         "konstruktioner": [
+         ]
+      }
+   ]
+}

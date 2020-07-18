@@ -7,6 +7,18 @@
             "sol"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "ana kall heme x grene",
+               "svenska": "Solen är gul och stor.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me husall (ell) ana kall sele",
+               "svenska": "Jag tycker att solen är bra.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -20,6 +32,23 @@
                "konstruktion": "te aall",
                "betydelse": "solen skiner"
             }
+         ],
+         "fragar" : [
+            {
+               "persilja": "te aall óklaga - perso",
+               "svenska": "Solen skiner i dag - fantastiskt!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "ranló óhall te óklaga rajj te aalf ónall",
+               "svenska": "Varför regnar det i dag när det var soligt i går?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "mo polampa aall",
+               "svenska": "Min lampa lyser.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -30,6 +59,18 @@
             "ett"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me grall ko ab tassa",
+               "svenska": "Jag har bara en bil.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "sketassna pong óna nall vo ab voa",
+               "svenska": "Båten till ön går om en minut!",
+               "skiljetecken": "!"
+            }
          ]
       },
       {
@@ -41,6 +82,19 @@
             "begynnelse"
          ],
          "konstruktioner": [
+         ],
+         
+         "fragar": [
+            {
+               "persilja": "lerfrennefa aba kall e",
+               "svenska": "Orienteringens start ligger här.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "ó janmefa aba te kalf kraxke",
+               "svenska": "I tidernas begynnelse fanns ingenting.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -52,6 +106,23 @@
             "begynna"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me aball u",
+               "svenska": "Jag startar nu.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me aball jall tee pro de pongapall ta",
+               "svenska": "Jag börjar göra det här om du tillåter det.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "abalf de kaffna",
+               "svenska": "Startade du bilen?",
+               "skiljetecken": "?"
+            }
          ]
       },
       {
@@ -62,6 +133,18 @@
             "tusen"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "he grall aberab lurra",
+               "svenska": "Han har ettusen kronor.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "aberab x ab kalla",
+               "svenska": "Tusen och en natt",
+               "skiljetecken": ""
+            }
          ]
       },
       {
@@ -72,6 +155,18 @@
             "hundra"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "pasme , abetab erra kalf ó donfkalna ó abklaga",
+               "svenska": "Fler än etthundra personer var i affären i måndags.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "abetab kra kall pavo pase kra",
+               "svenska": "Etthundra saker är väldigt många saker.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -81,6 +176,23 @@
             "måndag"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "óklaga kall abklaga",
+               "svenska": "I dag är det måndag.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "ó abklaga me nals pong Óbogna",
+               "svenska": "På måndag åker jag till Stockholm.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me kalf krax ó kolna ó abklaga ló me kalf krale",
+               "svenska": "Jag var inte i skolan i måndags därför att jag var sjuk.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -90,6 +202,23 @@
             "januari"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "nals de pong Säfsen ó abpina",
+               "svenska": "Ska du åka till Säfsen i januari?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "se kalf ó Idre ó abpina.",
+               "svenska": "Hon var i Idre i januari.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me olall abtipinefa mysa",
+               "svenska": "Jag gillar januaris snö.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -99,6 +228,23 @@
             "november"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me beball (ell) mysna ball ó abtipina",
+               "svenska": "Jag vill att snön kommer i november.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "ó abtipina me nals pong Spanjenna",
+               "svenska": "I november ska jag åka till Spanien.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "rit kalf te ó Spanjenna ó abtipina",
+               "svenska": "Hur var det i Spanien i november?",
+               "skiljetecken": "?"
+            }
          ]
       },
       {
@@ -108,6 +254,18 @@
             "första"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "olall de mo abre kaffa",
+               "svenska": "Gillar du min första bil?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "abre lampna kalf pavo krale",
+               "svenska": "Den första idén var kass.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -117,6 +275,18 @@
             "elva"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "janna kall feb pong abti",
+               "svenska": "Klockan är fem i elva.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "do tassa grall abti salra y mo grall ko seb",
+               "svenska": "Ditt hus har elva rum men mitt har bara sex.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -126,6 +296,18 @@
             "sommar"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "ME OLALL AJANNA",
+               "svenska": "JAG GILLAR SOMMAREN!!!!!",
+               "skiljetecken": "!!!!!"
+            },
+            {
+               "persilja": "pase erra nall pong skera ó ajanna",
+               "svenska": "Många personer går till sjöar på sommaren.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -135,6 +317,18 @@
             "syster"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mo amsa kall lexe",
+               "svenska": "Min syster är irriterande.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "mo amsa kall lexe y me olall so exo",
+               "svenska": "Min syster är irriterande men jag gillar henne också.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -144,6 +338,18 @@
             "mamma"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "anta sabalf (ell) me fasall krax dokkna",
+               "svenska": "Mamma sa att jag inte får datorn ):",
+               "skiljetecken": " ):"
+            },
+            {
+               "persilja": "antefa vela kall pavo sele",
+               "svenska": "Mammas mat är jättegod.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -153,6 +359,18 @@
             "bakterie"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me olall krax antónira",
+               "svenska": "Jag gillar inte bakterier.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "antónia jalf ha krale",
+               "svenska": "Ett virus gjorde honom sjuk.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -162,6 +380,18 @@
             "ord"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "persilja kalf kals ilja kon pase apra",
+               "svenska": "Persilja har blivit ett språk med många ord.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "",
+               "svenska": "Etthundra saker är väldigt många saker.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -171,6 +401,18 @@
             "bror"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mo atsa iadsall femjo",
+               "svenska": "Min bror beter sig alltid som en idiot.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me grall krax atsa",
+               "svenska": "Jag har inte en bror.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -180,6 +422,18 @@
             "fråga"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "te kall sele atta",
+               "svenska": "Det är en bra fråga.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me gagalf krax katall rab attra ó buna",
+               "svenska": "Jag kunde inte svara på tre frågor på provet.",
+               "skiljetecken": "."
+            }
          ]
       },
       {
@@ -189,6 +443,18 @@
             "fråga"
          ],
          "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "kaffdonferna attalf pro mes bebgrall kaffna",
+               "svenska": "Bilförsäljaren frågade om vi vill ha bilen.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me attall da tee",
+               "svenska": "Jag frågar dig det här.",
+               "skiljetecken": "."
+            }
          ]
       }
    ]

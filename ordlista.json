@@ -388,7 +388,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "",
+               "persilja": "abetab kra kall pavo pase kra",
                "svenska": "Etthundra saker är väldigt många saker.",
                "skiljetecken": "."
             }
@@ -448,6 +448,99 @@
             {
                "persilja": "kaffdonferna attalf pro mes bebgrall kaffna",
                "svenska": "Bilförsäljaren frågade om vi vill ha bilen.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me attall da tee",
+               "svenska": "Jag frågar dig det här.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "ball",
+         "ordklass": "vrb",
+         "betydelser": [
+            "komma"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mikkaffna ball vo feb vora",
+               "svenska": "Bussen kommer om fem minuter.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "ranló ball de krax",
+               "svenska": "Varför kommer du inte?.",
+               "skiljetecken": "?"
+            }
+         ]
+      },
+      {
+         "namn": "beball",
+         "ordklass": "vrb",
+         "betydelser": [
+            "vilja"
+         ],
+         "konstruktioner": [
+            {
+               "konstruktion": "saball beball",
+               "betydelse": "säga/ha helt fel"
+            }
+         ],
+         "fragar": [
+            {
+               "persilja": "anta beball (ell) mes ball",
+               "svenska": "Mamma vill att vi kommer.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me sabalf beball ópong||me krall paso kraxe ópong",
+               "svenska": "Jag har helt fel igen!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "he beball gagall persilja.",
+               "svenska": "han vill kunna persilja",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "bebgrall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "vilja ha"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mo amsa bebgrall femjo blanra ó sebklagra",
+               "svenska": "Min syster vill alltid ha godis på lördagar.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me husall (ell) me bebgrall ta",
+               "svenska": "Jag tror att jag vill ha den.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "blana",
+         "ordklass": "sub",
+         "betydelser": [
+            "godis"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mes velals blanra tee sebklaga sabalf anta",
+               "svenska": "Vi ska äta godis den här lördagen sa mamma.",
                "skiljetecken": "."
             },
             {

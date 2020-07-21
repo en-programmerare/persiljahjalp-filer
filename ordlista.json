@@ -67,7 +67,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "sketassna pong óna nall vo ab voa",
+               "persilja": "sketassna pong óna nall vo ab voa||sketassna pong óna nals vo ab voa",
                "svenska": "Båten till ön går om en minut!",
                "skiljetecken": "!"
             }
@@ -86,13 +86,13 @@
          
          "fragar": [
             {
-               "persilja": "lerfrennefa aba kall e",
+               "persilja": "lerfrenefa aba kall e",
                "svenska": "Orienteringens start ligger här.",
                "skiljetecken": "."
             },
             {
                "persilja": "ó janmefa aba te kalf kraxke",
-               "svenska": "I tidernas begynnelse fanns ingenting.",
+               "svenska": "I tidernas begynnelse fanns det ingenting.",
                "skiljetecken": "."
             }
          ]
@@ -141,7 +141,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "aberab x ab kalla",
+               "persilja": "aberab x ab kalla||erab x ab kalla",
                "svenska": "Tusen och en natt",
                "skiljetecken": ""
             }
@@ -158,7 +158,7 @@
          ],
          "fragar": [
             {
-               "persilja": "pasme , abetab erra kalf ó donfkalna ó abklaga",
+               "persilja": "pasme abetab erra kalf ó donfkalna ó abklaga",
                "svenska": "Fler än etthundra personer var i affären i måndags.",
                "skiljetecken": "."
             },
@@ -179,12 +179,12 @@
          ],
          "fragar": [
             {
-               "persilja": "óklaga kall abklaga",
+               "persilja": "óklaga kall abklaga||óklaga te kall abklaga",
                "svenska": "I dag är det måndag.",
                "skiljetecken": "."
             },
             {
-               "persilja": "ó abklaga me nals pong Óbogna",
+               "persilja": "ó abklaga me nals pong Óbogna||ó abklaga me nall pong Óbogna",
                "svenska": "På måndag åker jag till Stockholm.",
                "skiljetecken": "."
             },
@@ -262,7 +262,7 @@
                "skiljetecken": "?"
             },
             {
-               "persilja": "abre lampna kalf pavo krale",
+               "persilja": "abre lampna kalf (pavo) krale",
                "svenska": "Den första idén var kass.",
                "skiljetecken": "."
             }
@@ -299,8 +299,8 @@
          ],
          "fragar": [
             {
-               "persilja": "ME OLALL AJANNA",
-               "svenska": "JAG GILLAR SOMMAREN!!!!!",
+               "persilja": "me olall ajanna",
+               "svenska": "Jag gillar sommaren!!!!!",
                "skiljetecken": "!!!!!"
             },
             {
@@ -368,7 +368,7 @@
             },
             {
                "persilja": "antónia jalf ha krale",
-               "svenska": "Ett virus gjorde honom sjuk.",
+               "svenska": "En bakterie gjorde honom sjuk.",
                "skiljetecken": "."
             }
          ]
@@ -388,8 +388,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "abetab kra kall pavo pase kra",
-               "svenska": "Etthundra saker är väldigt många saker.",
+               "persilja": "me husall (ell) de saball blome apra",
+               "svenska": "Jag tycker att du säger fina ord.",
                "skiljetecken": "."
             }
          ]
@@ -430,7 +430,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me gagalf krax katall rab attra ó buna",
+               "persilja": "me gagalf krax kattall rab attra ó buna",
                "svenska": "Jag kunde inte svara på tre frågor på provet.",
                "skiljetecken": "."
             }
@@ -497,7 +497,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me sabalf beball ópong||me krall paso kraxe ópong",
+               "persilja": "me sabalf beball ópong||me kall paso kraxe ópong",
                "svenska": "Jag har helt fel igen!",
                "skiljetecken": "!"
             },
@@ -518,12 +518,12 @@
          ],
          "fragar": [
             {
-               "persilja": "mo amsa bebgrall femjo blanra ó sebklagra",
+               "persilja": "mo amsa bebgrall femjo blanra ó sebklagra||mo amsa beball femjo grall blanra ó sebklagra",
                "svenska": "Min syster vill alltid ha godis på lördagar.",
                "skiljetecken": "."
             },
             {
-               "persilja": "me husall (ell) me bebgrall ta",
+               "persilja": "me seckall (ell) me bebgrall ta",
                "svenska": "Jag tror att jag vill ha den.",
                "skiljetecken": "."
             }
@@ -540,13 +540,13 @@
          "fragar": [
             {
                "persilja": "mes velals blanra tee sebklaga sabalf anta",
-               "svenska": "Vi ska äta godis den här lördagen sa mamma.",
+               "svenska": "Vi ska äta godis den här lördagen, sa mamma.",
                "skiljetecken": "."
             },
             {
-               "persilja": "me attall da tee",
-               "svenska": "Jag frågar dig det här.",
-               "skiljetecken": "."
+               "persilja": "óklaga (te) kall sebklaga x ló te mes fasall blanra",
+               "svenska": "I dag är det lördag och därför får vi godis!.",
+               "skiljetecken": "!"
             }
          ]
       }

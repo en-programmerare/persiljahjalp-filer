@@ -62,12 +62,12 @@
          ],
          "fragar": [
             {
-               "persilja": "me grall ko ab tassa",
+               "persilja": "me grall ko ab kaffa",
                "svenska": "Jag har bara en bil.",
                "skiljetecken": "."
             },
             {
-               "persilja": "sketassna pong óna nall vo ab voa||sketassna pong óna nals vo ab voa",
+               "persilja": "skekaffna pong óna nall vo ab voa||skekaffna pong óna nals vo ab voa",
                "svenska": "Båten till ön går om en minut!",
                "skiljetecken": "!"
             }
@@ -205,17 +205,17 @@
          ],
          "fragar": [
             {
-               "persilja": "nals de pong Säfsen ó abpina",
+               "persilja": "nals de pong säfsen ó abpina",
                "svenska": "Ska du åka till Säfsen i januari?",
                "skiljetecken": "?"
             },
             {
-               "persilja": "se kalf ó Idre ó abpina.",
+               "persilja": "se kalf ó idre ó abpina.",
                "svenska": "Hon var i Idre i januari.",
                "skiljetecken": "."
             },
             {
-               "persilja": "me olall abtipinefa mysa",
+               "persilja": "me olall abpinefa mysa",
                "svenska": "Jag gillar januaris snö.",
                "skiljetecken": "."
             }
@@ -325,7 +325,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "mo amsa kall lexe y me olall so exo",
+               "persilja": "mo amsa kall lexe y me olall sa exo",
                "svenska": "Min syster är irriterande men jag gillar henne också.",
                "skiljetecken": "."
             }

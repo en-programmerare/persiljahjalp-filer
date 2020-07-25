@@ -545,8 +545,194 @@
             },
             {
                "persilja": "óklaga (te) kall sebklaga x ló te mes fasall blanra",
-               "svenska": "I dag är det lördag och därför får vi godis!.",
+               "svenska": "I dag är det lördag och därför får vi godis!",
                "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "blome",
+         "ordklass": "adj",
+         "betydelser": [
+            "fin",
+            "vacker"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "skena kall pavo blome",
+               "svenska": "Sjön är väldigt fin.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "skee kall blomme tree",
+               "svenska": "Blått är vackrare än grönt.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "bloppo",
+         "ordklass": "adv",
+         "betydelser": [
+            "därefter",
+            "sedan",
+            "sen"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me nalf mikkaffa pong Tassskena x bloppo me nalf mikka",
+               "svenska": "Jag åkte buss till Trångsund och därefter åkte jag tåg",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "bloppo me nalf pong tassna",
+               "svenska": "Sen åkte jag hem",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "bo",
+         "ordklass": "adv",
+         "betydelser": [
+            "snart",
+            "strax"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mikkna nall bo",
+               "svenska": "Tåget går snart.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me kall bo ótassna",
+               "svenska": "Vi är snart hemma.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "boga",
+         "ordklass": "sub",
+         "betydelser": [
+            "stad"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "óbogna kall svenjennefa grenle boga",
+               "svenska": "Stockholm är Sveriges största stad",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me tassall ó boga",
+               "svenska": "Jag bor i en stad.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "boggue",
+         "ordklass": "adj",
+         "betydelser": [
+            "svår",
+            "knepig",
+            "avancerad",
+            "komplicerad"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "buna kalf boggue",
+               "svenska": "Provet var svårt.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "te kall boggue (ell) jall nae ilja",
+               "svenska": "Det är svårt att skapa ett nytt språk!",
+               "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "bua",
+         "ordklass": "sub",
+         "betydelser": [
+            "prov"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "óklaga mes grall bua ó svenilja",
+               "svenska": "Imorgon har vi prov i svenska",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me gagalf krax kattall femjo attra ó buna",
+               "svenska": "Jag kunde inte svara på alla frågor på provet.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "bukkall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "använda"
+         ],
+         "konstruktioner": [
+            {
+               "konstruktion": "bukkall tona",
+               "betydelse": "gå på toa"
+            }
+         ],
+         "fragar": [
+            {
+               "persilja": "mes bukkall mos skekaffa feme klagma",
+               "svenska": "Vi använder vår båt hela dagarna.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "bukkall de do nae kaffa",
+               "svenska": "Använder du din nya bil?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "me bukkall tona",
+               "svenska": "Jag är på toa.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "burk",
+         "ordklass": "int",
+         "betydelser": [
+            "va",
+            "vad sa du",
+            "jag menar..."
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "burk",
+               "svenska": "Vad sa du?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "me beball blanra burk me olall blanra",
+               "svenska": "Jag vill godis... jag menade jag gillar godis.",
+               "skiljetecken": "."
             }
          ]
       }

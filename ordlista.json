@@ -446,12 +446,12 @@
          ],
          "fragar": [
             {
-               "persilja": "kaffdonferna attalf pro mes bebgrall kaffna",
+               "persilja": "kaffdonferna attalf pro mes bebgrall kaffna||kaffdonferna attalf pro mes beball grall kaffna",
                "svenska": "Bilförsäljaren frågade om vi vill ha bilen.",
                "skiljetecken": "."
             },
             {
-               "persilja": "me attall da tee",
+               "persilja": "me attall da tee||me attall tee pong da",
                "svenska": "Jag frågar dig det här.",
                "skiljetecken": "."
             }
@@ -539,7 +539,7 @@
          ],
          "fragar": [
             {
-               "persilja": "mes velals blanra tee sebklaga sabalf anta",
+               "persilja": "mes velals blanra tee sebklaga anta sabalf",
                "svenska": "Vi ska äta godis den här lördagen, sa mamma.",
                "skiljetecken": "."
             },
@@ -584,12 +584,12 @@
          ],
          "fragar": [
             {
-               "persilja": "me nalf mikkaffa pong Tassskena x bloppo me nalf mikka",
+               "persilja": "me nalf (kon) mikkaffa pong Tassskena x bloppo me nalf (kon) mikka",
                "svenska": "Jag åkte buss till Trångsund och därefter åkte jag tåg",
                "skiljetecken": "."
             },
             {
-               "persilja": "bloppo me nalf pong tassna",
+               "persilja": "bloppo me nalf pong tassna||me nall pong tassna bloppo",
                "svenska": "Sen åkte jag hem",
                "skiljetecken": "."
             }
@@ -606,12 +606,12 @@
          ],
          "fragar": [
             {
-               "persilja": "mikkna nall bo",
+               "persilja": "mikkna nall bo||mikkna nals bo",
                "svenska": "Tåget går snart.",
                "skiljetecken": "."
             },
             {
-               "persilja": "me kall bo ótassna",
+               "persilja": "me kall bo ótassna||me kall bo ótassa",
                "svenska": "Vi är snart hemma.",
                "skiljetecken": "."
             }
@@ -632,7 +632,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me tassall ó boga",
+               "persilja": "me tassall ó (ab) boga",
                "svenska": "Jag bor i en stad.",
                "skiljetecken": "."
             }
@@ -677,7 +677,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me gagalf krax kattall femjo attra ó buna",
+               "persilja": "me gagalf krax kattall femke attra ó buna",
                "svenska": "Jag kunde inte svara på alla frågor på provet.",
                "skiljetecken": "."
             }
@@ -733,6 +733,326 @@
                "persilja": "me beball blanra burk me olall blanra",
                "svenska": "Jag vill godis... jag menade jag gillar godis.",
                "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "de",
+         "ordklass": "pron",
+         "betydelser": [
+            "du"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "ra sabalf de",
+               "svenska": "Vad sa du?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "me beball donall da tee||me beball donall tee pong da",
+               "svenska": "Jag vill ge dig det här.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "fasall me do skekaffa",
+               "svenska": "Får jag din båt?",
+               "skiljetecken": "?"
+            }
+         ]
+      },
+      {
+         "namn": "des",
+         "ordklass": "pron",
+         "betydelser": [
+            "ni"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "ra beball des jall mo perra",
+               "svenska": "Vad vill ni göra, mina barn?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "fasall me dos bura",
+               "svenska": "Får jag era prov?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "me olall das",
+               "svenska": "Jag gillar er.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dokka",
+         "ordklass": "sub",
+         "betydelser": [
+            "dator"
+         ],
+         "konstruktioner": [
+            {
+               "konstruktion": "bukkall dokkna",
+               "betydelse": "ha datorn"
+            }
+         ],
+         "fragar": [
+            {
+               "persilja": "fasall me dokkna",
+               "svenska": "Får jag datorn?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "anta x jolfa donfalf nae dokka||jolfa x anta donfalf nae dokka",
+               "svenska": "Mamma och pappa har köpt en ny dator.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dokkjola",
+         "ordklass": "sub",
+         "betydelser": [
+            "webbsida",
+            "webbplats",
+            "hemsida"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "youtube kall sele dokkjola",
+               "svenska": "YouTube är en bra hemsida.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "jolall pavme ó mos dokkjola",
+               "svenska": "Läs mer på vår webbplats.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "donall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "ge",
+            "skänka"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "ó kulna fe donall kra x (fe) fasall kra",
+               "svenska": "På julen ger man saker och får saker.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "pro fe donall kra fe kals kals mappe",
+               "svenska": "Om man ger bort saker blir man glad.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "donfall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "köpa"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "mes donfalf nae tassa",
+               "svenska": "Vi har köpt ett nytt hus.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me donfals krike pong sa||me donfals sa krike",
+               "svenska": "Jag ska köpa nånting till henne.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "donfkala",
+         "ordklass": "sub",
+         "betydelser": [
+            "affär",
+            "butik",
+            "marknad"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me olall krax (ell) nall pong donfkalra",
+               "svenska": "Jag gillar inte att gå till affärer.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me donfall femjo kra ó donfkalra, kraxjo ó dokkjolra",
+               "svenska": "Jag köper alltid saker i butiker, aldrig på webbsidor.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dong",
+         "ordklass": "prep",
+         "betydelser": [
+            "från",
+            "över (vid tal om klockan)"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "janna seb me nefall nall dong kolna pong mikktassna||janna seb me nefals nall dong kolna pong mikktassna",
+               "svenska": "Klockan sex måste jag gå från skolan till stationen.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "nals de dong tassna",
+               "svenska": "Går du hemifrån?",
+               "skiljetecken": "?"
+            }, 
+            {
+               "persilja": "janna kall febti dong ab",
+               "svenska": "Klockan är fem över ett",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dongapa",
+         "ordklass": "sub",
+         "betydelser": [
+            "förbud"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "kaffra fasall krax kall e ló te kall pongapa",
+               "svenska": "Bilar får inte vara här eftersom det finns ett förbud.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "dongapma kall lexe",
+               "svenska": "Förbuden är irriterande.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dongapall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "förbjuda"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "lóvma dongapall da (ell) nall ponge kon kaffa",
+               "svenska": "Reglerna förbjuder dig att åka hit med bil.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me dongapall da (ell) iadsall",
+               "svenska": "Jag förbjuder dig att bete dig som en idiot!",
+               "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "dongape",
+         "ordklass": "adj",
+         "betydelser": [
+            "förbjuden",
+            "förbjudet"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "te kall dongape (ell) trotall ó kolna",
+               "svenska": "Det är förbjudet att sova i skolan",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me kall dongape (ell) nall pongko",
+               "svenska": "Jag är förbjuden att gå in.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "donge",
+         "ordklass": "adv",
+         "betydelser": [
+            "härifrån"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "de nefall nall donge jong jolfa ball",
+               "svenska": "Du måste gå härifrån innan pappa kommer!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "donge nall (te) mikkra pong feme ossna",
+               "svenska": "Härifrån går tåg till hela världen",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dongel",
+         "ordklass": "adv",
+         "betydelser": [
+            "därifrån"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "he nefall ball dongel jong te aball óhall",
+               "svenska": "Han måste komma därifrån innan det börjar regna.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "dongel ball fe pong lerupna",
+               "svenska": "Därifrån kommer man till Skogås.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "dongko",
+         "ordklass": "adv",
+         "betydelser": [
+            "ut"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "nals de dongko kon ma",
+               "svenska": "Ska du gå ut med mig?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "u mes nall dongko",
+               "svenska": "Nu går vi ut!",
+               "skiljetecken": "!"
             }
          ]
       }

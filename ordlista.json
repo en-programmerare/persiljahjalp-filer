@@ -746,8 +746,8 @@
          ],
          "fragar": [
             {
-               "persilja": "ra sabalf de",
-               "svenska": "Vad sa du?",
+               "persilja": "ra bebalf de",
+               "svenska": "Vad villle du?",
                "skiljetecken": "?"
             },
             {
@@ -852,7 +852,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "pro fe donall kra fe kals kals mappe",
+               "persilja": "pro fe donall kra fe kals mappe",
                "svenska": "Om man ger bort saker blir man glad.",
                "skiljetecken": "."
             }
@@ -924,7 +924,7 @@
             }, 
             {
                "persilja": "janna kall febti dong ab",
-               "svenska": "Klockan är fem över ett",
+               "svenska": "Klockan är kvart över ett.",
                "skiljetecken": "."
             }
          ]
@@ -1008,7 +1008,7 @@
                "skiljetecken": "!"
             },
             {
-               "persilja": "donge nall (te) mikkra pong feme ossna",
+               "persilja": "donge (te) nall mikkra pong feme ossna",
                "svenska": "Härifrån går tåg till hela världen",
                "skiljetecken": "."
             }
@@ -1029,7 +1029,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "dongel ball fe pong lerupna",
+               "persilja": "dongel fe ball pong lerupna",
                "svenska": "Därifrån kommer man till Skogås.",
                "skiljetecken": "."
             }
@@ -1053,6 +1053,264 @@
                "persilja": "u mes nall dongko",
                "svenska": "Nu går vi ut!",
                "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "e",
+         "ordklass": "adv",
+         "betydelser": [
+            "här"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "femre kall e u",
+               "svenska": "Alla är här nu.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "ranló kall de krax e",
+               "svenska": "Varför är du inte här?",
+               "skiljetecken": "?"
+            }
+         ]
+      },
+      {
+         "namn": "egga",
+         "ordklass": "sub",
+         "betydelser": [
+            "påsk"
+         ],
+         "konstruktioner": [
+            {
+               "konstruktion": "eggkallna",
+               "betydelse": "påskafton"
+            },
+            {
+               "konstruktion": "eggklagna",
+               "betydelse": "påskdagen"
+            },
+            {
+               "konstruktion": "tabreklagna egga",
+               "betydelse": "annandag påsk"
+            }
+         ],
+         "fragar": [
+            {
+               "persilja": "eggna kall fele ópaba",
+               "svenska": "Påsken är sen i år.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "eggklagna knall kall imple klagna, y eggkallna kall ta e ó Svenjenna",
+               "svenska": "Påskdagen borde vara den viktigaste dagen, men påskafton är det här i Sverige.",
+               "skiljetecken": "."
+            }
+            ,
+            {
+               "persilja": "fe kals femjo favo vekke ó tabreklagna egga ló eggna óxall bo||fe kals femjo favo vekke ó tabreklagna egga ló eggna bo óxall",
+               "svenska": "man blir alltid lite ledsen på annandag påsk för att påsken snart tar slut.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "el",
+         "ordklass": "adv",
+         "betydelser": [
+            "där"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me beball krax kall el",
+               "svenska": "Jag vill inte vara där!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "te kall pavo blome el",
+               "svenska": "Det är jättefint där.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "eljo",
+         "ordklass": "adv",
+         "betydelser": [
+            "annars"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "ball ponge, eljo de fasall krax blanra",
+               "svenska": "Kom hit, annars får du inte godis!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "me fasalf kaffna z eljo ko Markus fasall bukkall",
+               "svenska": "Jag fick bilen som annars bara Markus får använda.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "ell",
+         "ordklass": "konj",
+         "betydelser": [
+            "att (bisatsinledare) (valfritt)"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "te kall krax dongape (ell) bukkall ell, y fe fasall jall ta",
+               "svenska": "Det är inte förbjudet att använda att, men man får göra det.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "(ell) riball ell kall sele",
+               "svenska": "Att skriva att är bra.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "engilja",
+         "ordklass": "sub",
+         "betydelser": [
+            "engelska"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "engilja kall ab ong ossnefa grenle iljra",
+               "svenska": "Engelska är ett av världens största språk.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "saball de engilja",
+               "svenska": "Pratar du engelska?",
+               "skiljetecken": "?"
+            }
+         ]
+      },
+      {
+         "namn": "engilje",
+         "ordklass": "adj",
+         "betydelser": [
+            "engelsk"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me jolall ko engilje jolra",
+               "svenska": "Jag läser bara engelska böcker.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me gralf engilje kolera",
+               "svenska": "Jag hade en engelsk lärare.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "era",
+         "ordklass": "sub",
+         "betydelser": [
+            "person",
+            "människa"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "sebeseb erra tassall ó ossna",
+               "svenska": "Sju miljoner människor bor i världen.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me olall krax erra z iadsall",
+               "svenska": "Jag gillar inte personer som beter sig som idioter.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "erab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "tusen",
+            "ettusen",
+            "tusan"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "grall se erab kaffra||grall se aberab kaffra",
+               "svenska": "Har hon tusen bilar!?",
+               "skiljetecken": "!?"
+            },
+            {
+               "persilja": "erab me jalf kraxo",
+               "svenska": "Tusan, jag gjorde fel!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "erab x ab kalla",
+               "svenska": "Tusen och en natt",
+               "skiljetecken": ""
+            }
+         ]
+      },
+      {
+         "namn": "etab",
+         "ordklass": "sub",
+         "betydelser": [
+            "hundra",
+            "etthundra"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "te tassall etab erra ó bogna||te tassall abetab erra ó bogna",
+               "svenska": "Det bor hundra personer i stan.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "me grall krax etab lurra||me grall krax abetab lurra",
+               "svenska": "Jag har inte hundra kronor.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "exo",
+         "ordklass": "adv",
+         "betydelser": [
+            "också"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me tassall exo ó Tassskena||me tassall ó Tassskena exo",
+               "svenska": "Jag bor också i Trångsund!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "te exo||exo te",
+               "svenska": "Det också...",
+               "skiljetecken": "..."
             }
          ]
       }

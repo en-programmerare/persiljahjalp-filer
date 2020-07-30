@@ -62,8 +62,8 @@
          ],
          "fragar": [
             {
-               "persilja": "me grall ko ab kaffa",
-               "svenska": "Jag har bara en bil.",
+               "persilja": "me grall ko ab lura",
+               "svenska": "Jag har bara en krona.",
                "skiljetecken": "."
             },
             {
@@ -114,8 +114,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me aball jall tee pro de pongapall ta",
-               "svenska": "Jag börjar göra det här om du tillåter det.",
+               "persilja": "u fes aball frenall",
+               "svenska": "Nu börjar de springa.",
                "skiljetecken": "."
             },
             {
@@ -158,8 +158,8 @@
          ],
          "fragar": [
             {
-               "persilja": "pasme abetab erra kalf ó donfkalna ó abklaga",
-               "svenska": "Fler än etthundra personer var i affären i måndags.",
+               "persilja": "nos mokka grall abetab ongetab",
+               "svenska": "Er mobil har etthundra procent.",
                "skiljetecken": "."
             },
             {
@@ -257,8 +257,8 @@
          ],
          "fragar": [
             {
-               "persilja": "olall de mo abre kaffa",
-               "svenska": "Gillar du min första bil?",
+               "persilja": "kall (te) abre rabpina óklaga",
+               "svenska": "Är det den första mars idag?",
                "skiljetecken": "?"
             },
             {
@@ -283,9 +283,9 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "do tassa grall abti salra y mo grall ko seb",
-               "svenska": "Ditt hus har elva rum men mitt har bara sex.",
-               "skiljetecken": "."
+               "persilja": "gagall se saball feme abti iljra",
+               "svenska": "Kan hon prata hela elva språk‽.",
+               "skiljetecken": "‽"
             }
          ]
       },
@@ -325,9 +325,9 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "mo amsa kall lexe y me olall sa exo",
-               "svenska": "Min syster är irriterande men jag gillar henne också.",
-               "skiljetecken": "."
+               "persilja": "susalf de (ell) he grall amsa",
+               "svenska": "Visste du att han har en syster?.",
+               "skiljetecken": "?"
             }
          ]
       },
@@ -388,8 +388,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me husall (ell) de saball blome apra",
-               "svenska": "Jag tycker att du säger fina ord.",
+               "persilja": "mes husall (ell) des saball blome apra",
+               "svenska": "Vi tycker att ni säger fina ord.",
                "skiljetecken": "."
             }
          ]
@@ -446,8 +446,8 @@
          ],
          "fragar": [
             {
-               "persilja": "kaffdonferna attalf pro mes bebgrall kaffna||kaffdonferna attalf pro mes beball grall kaffna",
-               "svenska": "Bilförsäljaren frågade om vi vill ha bilen.",
+               "persilja": "kolerna attalf fas vo kratsna",
+               "svenska": "Läraren frågade dem om lektionen.",
                "skiljetecken": "."
             },
             {
@@ -539,14 +539,14 @@
          ],
          "fragar": [
             {
-               "persilja": "mes velals blanra tee sebklaga anta sabalf",
-               "svenska": "Vi ska äta godis den här lördagen, sa mamma.",
+               "persilja": "mes fasall velall blanra ó sebklagra",
+               "svenska": "Vi får äta godis på lördagar.",
                "skiljetecken": "."
             },
             {
-               "persilja": "óklaga (te) kall sebklaga x ló te mes fasall blanra",
-               "svenska": "I dag är det lördag och därför får vi godis!",
-               "skiljetecken": "!"
+               "persilja": "Se donalf ma tee blanna",
+               "svenska": "Hon gav mig den här godisbiten",
+               "skiljetecken": "."
             }
          ]
       },
@@ -566,8 +566,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "skee kall blomme tree",
-               "svenska": "Blått är vackrare än grönt.",
+               "persilja": "tree kall blomme skee",
+               "svenska": "Grönt är vackrare än blått.",
                "skiljetecken": "."
             }
          ]
@@ -702,8 +702,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "bukkall de do nae kaffa",
-               "svenska": "Använder du din nya bil?",
+               "persilja": "bukkall de mos nae kaffa",
+               "svenska": "Använder du vår nya bil?",
                "skiljetecken": "?"
             },
             {
@@ -725,7 +725,7 @@
          ],
          "fragar": [
             {
-               "persilja": "burk",
+               "persilja": "burk||ra sabalf de",
                "svenska": "Vad sa du?",
                "skiljetecken": "?"
             },
@@ -747,7 +747,7 @@
          "fragar": [
             {
                "persilja": "ra bebalf de",
-               "svenska": "Vad villle du?",
+               "svenska": "Vad ville du?",
                "skiljetecken": "?"
             },
             {
@@ -852,9 +852,9 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "pro fe donall kra fe kals mappe",
-               "svenska": "Om man ger bort saker blir man glad.",
-               "skiljetecken": "."
+               "persilja": "donfalf fes fa tee||donfalf fes tee pong fa",
+               "svenska": "Gav de henom det här‽",
+               "skiljetecken": "‽"
             }
          ]
       },
@@ -896,9 +896,9 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me donfall femjo kra ó donfkalra, kraxjo ó dokkjolra",
-               "svenska": "Jag köper alltid saker i butiker, aldrig på webbsidor.",
-               "skiljetecken": "."
+               "persilja": "nals mes pong donfkalna",
+               "svenska": "Ska vi gå till affären?",
+               "skiljetecken": "?"
             }
          ]
       },
@@ -939,13 +939,13 @@
          ],
          "fragar": [
             {
-               "persilja": "kaffra fasall krax kall e ló te kall pongapa",
+               "persilja": "kaffra fasall krax kall e ló te kall dongapa",
                "svenska": "Bilar får inte vara här eftersom det finns ett förbud.",
                "skiljetecken": "."
             },
             {
-               "persilja": "dongapma kall lexe",
-               "svenska": "Förbuden är irriterande.",
+               "persilja": "dongapma kall pavo lexe",
+               "svenska": "Förbuden är jätteirriterande.",
                "skiljetecken": "."
             }
          ]
@@ -960,8 +960,8 @@
          ],
          "fragar": [
             {
-               "persilja": "lóvma dongapall da (ell) nall ponge kon kaffa",
-               "svenska": "Reglerna förbjuder dig att åka hit med bil.",
+               "persilja": "kolnefa lóvra dongapall fa (ell) frenall",
+               "svenska": "Skolans regler förbjuder en att springa.",
                "skiljetecken": "."
             },
             {
@@ -987,8 +987,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "me kall dongape (ell) nall pongko",
-               "svenska": "Jag är förbjuden att gå in.",
+               "persilja": "des kall dongape (ell) nall pongko",
+               "svenska": "Ni är förbjudna att gå in.",
                "skiljetecken": "."
             }
          ]
@@ -1008,7 +1008,7 @@
                "skiljetecken": "!"
             },
             {
-               "persilja": "donge (te) nall mikkra pong feme ossna",
+               "persilja": "donge (te) mikkra nall pong feme ossna",
                "svenska": "Härifrån går tåg till hela världen",
                "skiljetecken": "."
             }
@@ -1104,8 +1104,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "eggklagna knall kall imple klagna, y eggkallna kall ta e ó Svenjenna",
-               "svenska": "Påskdagen borde vara den viktigaste dagen, men påskafton är det här i Sverige.",
+               "persilja": "me susall krax ranló eggkallna kall impme eggklagna ó Svenjenna",
+               "svenska": "Jag vet inte varför påskafton är viktigare är påskdagen i Sverige.",
                "skiljetecken": "."
             }
             ,
@@ -1168,7 +1168,7 @@
          ],
          "fragar": [
             {
-               "persilja": "te kall krax dongape (ell) bukkall ell, y fe fasall jall ta",
+               "persilja": "te kall krax dongape bukkall ell, y fe fasall jall ta",
                "svenska": "Det är inte förbjudet att använda att, men man får göra det.",
                "skiljetecken": "."
             },
@@ -1232,13 +1232,13 @@
          ],
          "fragar": [
             {
-               "persilja": "sebeseb erra tassall ó ossna",
+               "persilja": "sibeseb erra tassall ó ossna",
                "svenska": "Sju miljoner människor bor i världen.",
                "skiljetecken": "."
             },
             {
-               "persilja": "me olall krax erra z iadsall",
-               "svenska": "Jag gillar inte personer som beter sig som idioter.",
+               "persilja": "femre erra e saball svenilja",
+               "svenska": "Alla människor här pratar svenska.",
                "skiljetecken": "."
             }
          ]
@@ -1311,6 +1311,55 @@
                "persilja": "te exo||exo te",
                "svenska": "Det också...",
                "skiljetecken": "..."
+            }
+         ]
+      },
+      {
+         "namn": "fe",
+         "ordklass": "pro",
+         "betydelser": [
+            "hen",
+            "man"
+            
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "fe gagall saball fe pong erra z beball krax (ell) fe saball he q se pong fas",
+               "svenska": "Man kan säga hen till personer som inte vill att man säger han eller hon till dem",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "Kolerna nalf pong fa",
+               "svenska": "Läraren gick till henom.",
+               "skiljetecken": "."
+            },
+            {
+                "persilja": "(ab) era trotall ó fo trota",
+                "svenska": "En person sover i ens säng.",
+                "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "fyra"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "kolna donalf fab jolra",
+               "svenska": "Skolan har köpt fyra böcker.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "Femre fab lurra kall ó dos tassa",
+               "svenska": "Alla fyra kronor är i ert hus.",
+               "skiljetecken": "."
             }
          ]
       }

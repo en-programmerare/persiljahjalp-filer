@@ -574,7 +574,7 @@
       },
       {
          "namn": "bloppo",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "därefter",
             "sedan",
@@ -672,7 +672,7 @@
          ],
          "fragar": [
             {
-               "persilja": "óklaga mes grall bua ó svenilja",
+               "persilja": "ótala mes grall bua ó svenilja",
                "svenska": "Imorgon har vi prov i svenska",
                "skiljetecken": "."
             },
@@ -995,7 +995,7 @@
       },
       {
          "namn": "donge",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "härifrån"
          ],
@@ -1016,7 +1016,7 @@
       },
       {
          "namn": "dongel",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "därifrån"
          ],
@@ -1037,7 +1037,7 @@
       },
       {
          "namn": "dongko",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "ut"
          ],
@@ -1058,7 +1058,7 @@
       },
       {
          "namn": "e",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "här"
          ],
@@ -1118,7 +1118,7 @@
       },
       {
          "namn": "el",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "där"
          ],
@@ -1139,7 +1139,7 @@
       },
       {
          "namn": "eljo",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "annars"
          ],
@@ -1173,8 +1173,8 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "(ell) riball ell kall sele",
-               "svenska": "Att skriva att är bra.",
+               "persilja": "he sabalf (ell) me nefall ball",
+               "svenska": "Han sade att jag måste komma.",
                "skiljetecken": "."
             }
          ]
@@ -1295,7 +1295,7 @@
       },
       {
          "namn": "exo",
-         "ordklass": "adv",
+         "ordklass": "oregeladv",
          "betydelser": [
             "också"
          ],
@@ -1442,7 +1442,7 @@
             },
             {
                "persilja": "se kalf ó donfkalna ó fabklaga",
-               "svenska": "Hon var i affären på torsdag.",
+               "svenska": "Hon var i affären i torsdags.",
                "skiljetecken": "."
             }
          ]
@@ -1456,12 +1456,12 @@
          "konstruktioner": [
          {
          "konstruktion": "fabpina, fabpina",
-         "betydelse": "jag har lurat dig, ha!"
+         "betydelse": "april, april, din dumma sill!"
        }
          ],
          "fragar": [
             {
-               "persilja": "fabpina fabpina mathias",
+               "persilja": "fabpina fabpina",
                "svenska": "April, april, din dumma sill!",
                "skiljetecken": "!"
             },
@@ -1482,8 +1482,8 @@
          ],
          "fragar": [
             {
-               "persilja": "kolna aball fabre abpina ópong||kolna abals fabre abpina ópong",
-               "svenska": "Skolan börjar den fjärde januari igen.",
+               "persilja": "kolna aball ópong fabre abpina||kolna abals ópong fabre abpina",
+               "svenska": "Skolan börjar igen den fjärde januari.",
                "skiljetecken": "."
             },
             {
@@ -1584,7 +1584,7 @@
       },
       {
          "namn": "fave",
-         "ordklass": "pron",
+         "ordklass": "adj",
          "betydelser": [
             "lite"
          ],

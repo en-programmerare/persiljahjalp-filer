@@ -1237,7 +1237,7 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "femre erra e saball svenilja",
+               "persilja": "femke erra e saball svenilja",
                "svenska": "Alla människor här pratar svenska.",
                "skiljetecken": "."
             }
@@ -1316,7 +1316,7 @@
       },
       {
          "namn": "fe",
-         "ordklass": "pro",
+         "ordklass": "pron",
          "betydelser": [
             "hen",
             "man"
@@ -1336,9 +1336,9 @@
                "skiljetecken": "."
             },
             {
-                "persilja": "(ab) era trotall ó fo trota",
-                "svenska": "En person sover i ens säng.",
-                "skiljetecken": "."
+                "persilja": "hahall krax fo kra",
+                "svenska": "Glöm inte ens saker!",
+                "skiljetecken": "!"
             }
          ]
       },
@@ -1357,9 +1357,249 @@
                "skiljetecken": "."
             },
             {
-               "persilja": "Femre fab lurra kall ó dos tassa",
-               "svenska": "Alla fyra kronor är i ert hus.",
+               "persilja": "femke fab kra kall ó dos tassa",
+               "svenska": "Alla fyra saker är i ert hus.",
                "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fabe",
+         "ordklass": "rkn",
+         "betydelser": [
+            "fyrtio"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "me nefgrall fabe lurra||me nefall grall fabe lurra",
+               "svenska": "Jag behöver fyrtio kronor.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "he janalf (ó) fabe vora",
+               "svenska": "Han har väntat i fyrtio minuter!",
+               "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "faberab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "fyratusen"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "te tassall faberab erra ó tee boga",
+               "svenska": "Det bor fyratusen personer i den här staden.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "femke faberab lurra kall sypong fos tassa",
+               "svenska": "Alla fyratusen kronor finns under deras bil.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fabetab",
+         "ordklass": "rkn",
+         "betydelser": [
+            "fyrahundra"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "kall te fabetab pabra",
+               "svenska": "Är du fyrahundra år?.",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "fabetab lurra pong teel sell",
+               "svenska": "Fyrahundra kronor för den där, tack!",
+               "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "fabklaga",
+         "ordklass": "sub",
+         "betydelser": [
+            "torsdag"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "rajj ó fabklaga kall buna||rajj ó fabklaga kals buna",
+               "svenska": "När på torsdag är provet?",
+               "skiljetecken": "?"
+            },
+            {
+               "persilja": "se kalf ó donfkalna ó fabklaga",
+               "svenska": "Hon var i affären på torsdag.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fabpina",
+         "ordklass": "sub",
+         "betydelser": [
+            "april"
+         ],
+         "konstruktioner": [
+         {
+         "konstruktion": "fabpina, fabpina",
+         "betydelse": "jag har lurat dig, ha!"
+       }
+         ],
+         "fragar": [
+            {
+               "persilja": "fabpina fabpina mathias",
+               "svenska": "April, april, din dumma sill!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "mes nals pong lerfrenna ó nyköping ó fabpina",
+               "svenska": "Vi ska åka till orienteringen i Nyköping i april.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fabre",
+         "ordklass": "rkn",
+         "betydelser": [
+            "fjärde"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "kolna aball fabre abpina ópong||kolna abals fabre abpina ópong",
+               "svenska": "Skolan börjar den fjärde januari igen.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "tee kall fabre janna me saball ta pong sa||tee kall fabre janna me saball sa ta",
+               "svenska": "Detta är den fjärde gången jag säger det till henne!",
+               "skiljetecken": "!"
+            }
+         ]
+      },
+      {
+         "namn": "fabti",
+         "ordklass": "rkn",
+         "betydelser": [
+            "fjorton"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "blanra pong fabti lurra sell",
+               "svenska": "Godis för fjorton kronor, tack!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "beball des jolall tee fabti jolma",
+               "svenska": "Vill ni läsa de här fjorton böckerna?",
+               "skiljetecken": "?"
+            }
+         ]
+      },
+      {
+         "namn": "fes",
+         "ordklass": "pron",
+         "betydelser": [
+            "de (för personer)"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "el fes kall",
+               "svenska": "Där är de!",
+               "skiljetecken": "!"
+            },
+            {
+               "persilja": "kolerna beball saball kon fas",
+               "svenska": "Läraren vill prata med dem.",
+               "skiljetecken": "."
+            },
+            {
+              "persilja": "me seckall (ell) tee kall fos",
+              "svenska": "Jag tror att den här är deras.",
+              "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fasall",
+         "ordklass": "vrb",
+         "betydelser": [
+            "få"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "des fasalf etab lurra ong ha||des fasalf abetab lurra ong ha",
+               "svenska": "Ni fick hundra kronor av honom.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "fasall me bukkall tona||fasall me nall pong tona||fasall me nall pong toa",
+               "svenska": "Får jag gå på toa?",
+               "skiljetecken": "?"
+            }
+         ]
+      },
+      {
+         "namn": "fase",
+         "ordklass": "adj",
+         "betydelser": [
+            "få"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "te kalf fase erra ó kolna",
+               "svenska": "Det var få personer i skolan.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "femre kalf el ónall y u fasme kall el",
+               "svenska": "Alla var där igår men nu är färre där.",
+               "skiljetecken": "."
+            }
+         ]
+      },
+      {
+         "namn": "fave",
+         "ordklass": "pron",
+         "betydelser": [
+            "lite"
+         ],
+         "konstruktioner": [
+         ],
+         "fragar": [
+            {
+               "persilja": "fe fasall ko fave vela",
+               "svenska": "Man får bara lite mat.",
+               "skiljetecken": "."
+            },
+            {
+               "persilja": "kall femre favo vekke",
+               "svenska": "Är alla lite ledsna?",
+               "skiljetecken": "?"
             }
          ]
       }
